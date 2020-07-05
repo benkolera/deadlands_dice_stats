@@ -1,0 +1,4 @@
+%{
+  "elixlsx": {:hex, :elixlsx, "0.4.2", "37dd3ada960eb1fd32ddb8736a984787a9a22734ebb305cde0c437805938dee3", [:mix], [], "hexpm", "6e42e53f193275adeafd1252f8c07cb0dabf50da356b4d75b12a8ed8e5322733"},
+  "ex_dice_roller": {:hex, :ex_dice_roller, "1.0.0-rc.2", "687c8e87c1298fcc2e4f55340f72d37e521453d13b37407e6136d3bdce6f1581", [:mix], [], "hexpm", "b2e1f2e527d5e1b044a5288af31ff14b760ce789dd203203d07035e9c4186c25"},
+}
